@@ -27,6 +27,9 @@ rvm:
   - 1.9.3
   - 1.8.7
 
+# CodeClimate
+secure: "L4K5+5Jb+Rdvn6tgFaSDtPEiUx7PECAZaAKt5AGxWOyTDspq3kv79adfsyTUGtwOMW1ZY/3xH395GcvFbszRrsC0xYtEhL9ATW1S2i78Utf5QgQQKXbktdEdBB7LXL7QzanNd64mlSjg3a76QoktfpV4xCZ7e5KvrWRsD8JhUBk="
+
 # Rubygems versions MUST be available as rake tasks
 # see Rakefile:125 for the list of possible RGV values
 env:
